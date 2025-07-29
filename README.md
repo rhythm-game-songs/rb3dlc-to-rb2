@@ -32,12 +32,16 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Breaking Benjamin - Breath
 * Breaking Benjamin - Sooner or Later
 * Breaking Benjamin - Until the End
+* Bruno Mars - Grenade
 * Bullet For My Valentine - Scream Aim Fire
 * Bullet For My Valentine - Tears Don't Fall
 * Bullet For My Valentine - Your Betrayal
 * Caesars - Jerk It Out
 * Cheap Trick - I Want You to Want Me (Live)
 * Cheap Trick - Surrender (Live)
+* Chevelle - Face to the Floor
+* Chevelle - The Red
+* Chevelle - Send the Pain Below
 * Chumbawamba - Tubthumping
 * Cobra Starship (ft. Sabi) - You Make Me Feel...
 * David Bowie - Ziggy Stardust
@@ -167,6 +171,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 
 
 ## RBN 2.0 Songs Completed:
+* !l! - !l
 * A Day to Remember - 2nd Sucks
 * A Day to Remember - All Signs Point to Lauderdale
 * A Day to Remember - Better Off This Way
@@ -199,4 +204,4 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Toby Turner - I Can Swing My Sword (ft. Terabite)
 
 ## Converts done by:
-*  Anthoalreadypopped, AnxiousQT, C0Assassin, D-97, Underoath628, Joey Crick
+*  Anthoalreadypopped, AnxiousQT, C0Assassin, D-97, Underoath628, Joey Crick, Nicorockstar, Jaramos1502, Exoticri
