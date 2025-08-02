@@ -59,6 +59,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Fall Out Boy - Thnks fr th Mmrs
 * Good Charlotte - The Anthem
 * Green Day - Oh Love
+* Heart - Alone
 * Hoobastank - Crawling in the Dark
 * Incubus - Pardon Me
 * Jefferson Airplane - Somebody to Love
@@ -108,6 +109,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Paramore - Ignorance
 * Paramore - Pressure
 * Paramore - The Only Exception
+* Pat Benatar - Invincible
 * P!nk - Get the Party Started
 * Poison - Talk Dirty to Me
 * Puddle of Mudd - Blurry
