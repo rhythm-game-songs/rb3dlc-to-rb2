@@ -14,6 +14,8 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 
 ![3](dependencies/media/3.png)
 
+Note that songs from Rock Band Blitz won't be found here. For those, please see [Blitz-to-2](https://github.com/C0Assassin/Blitz-to-2).
+
 ## DLC Songs Converted:
 * 38 Special - Hold On Loosely
 * A Flock of Seagulls - I Ran (So Far Away)
@@ -44,6 +46,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Chevelle - Send the Pain Below
 * Chumbawamba - Tubthumping
 * Cobra Starship (ft. Sabi) - You Make Me Feel...
+* David Bowie - Fame
 * David Bowie - Ziggy Stardust
 * Def Leppard - Photograph
 * Def Leppard - Rock of Ages
@@ -63,11 +66,11 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Hoobastank - Crawling in the Dark
 * Incubus - Pardon Me
 * Jefferson Airplane - Somebody to Love
+* John & Yoko, The Plastic Ono Band - Happy Xmas (War is Over)
 * Killswitch Engage - Starting Over
 * Killswitch Engage - The Arms of Sorrow
 * Killswitch Engage - The End of Heartache
 * KISS - Strutter (Live)
-* Kool & the Gang - Jungle Boogie
 * KoRn - Falling Away from Me
 * KoRn - Freak on a Leash
 * Lady Gaga - Born This Way
@@ -93,7 +96,6 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Megadeth - A Tout le Monde
 * Mudvayne - Happy
 * My Chemical Romance - Helena
-* My Chemical Romance - Sing
 * My Chemical Romance - Teenagers
 * Nickelback - Animals
 * Nickelback - How You Remind Me
@@ -153,7 +155,6 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Sublime - Wrong Way
 * System of a Down - Aerials
 * System of a Down - Hypnotize
-* Tears for Fears - Shout
 * The Darkness - I Believe in a Thing Called Love
 * The Edgar Winter Group - Frankenstein
 * The Strokes - Under Cover of Darkness
